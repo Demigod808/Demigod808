@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Demigod808
-- 👀 I’m interested in game development, possible cyber security.
 - 🌱 I’m currently learning computer science.
 - 💞️ I’m looking to collaborate on projects to help me learn.
 - 📫 How to reach me, message me on here.
