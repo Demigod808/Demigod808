@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @Demigod808
-- 🌱 I’m currently learning computer science.
-- 💞️ I’m looking to collaborate on projects to help me learn.
-- 📫 How to reach me, message me on here.
+Hi, my name is Erik, I recently graduated with a Bachelors of Science in Computer Science May 2023. 
+
 
 <!---
 Demigod808/Demigod808 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
