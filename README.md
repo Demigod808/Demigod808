@@ -1,4 +1,4 @@
-Hi, my name is Erik, I recently graduated with a Bachelors of Science in Computer Science May 2023. 
+Hi, my name is Erik, I recently graduated with a Bachelors in Computer Science 2023. 
 
 
 <!---
